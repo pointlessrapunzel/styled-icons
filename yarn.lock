@@ -3548,7 +3548,7 @@ __metadata:
     "@babel/runtime": ^7.13.10
     "@styled-icons/pack-builder": ^10.6.0
     "@styled-icons/styled-icon": ^10.6.0
-    "@svg-icons/octicons": 1.48.0
+    "@svg-icons/octicons": 1.54.0
     react: ^17.0.2
     react-dom: ^17.0.2
     react-is: ^17.0.2
@@ -3959,10 +3959,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@svg-icons/octicons@npm:1.48.0":
-  version: 1.48.0
-  resolution: "@svg-icons/octicons@npm:1.48.0"
-  checksum: fcc15cd0408e18513c7f1e4d6db3f628bdc36100dde993a062120bb7b597345ae5805e283ad272c2a5df11d9cbdefab14946ecbb860fb475f291ac6df37eef44
+"@svg-icons/octicons@npm:1.54.0":
+  version: 1.54.0
+  resolution: "@svg-icons/octicons@npm:1.54.0"
+  checksum: 210df7c11ea82fc97b088a5aa78676d905a9ada903c64f8cc201da156b9d0d51c5638dcf04bf53759501fc95d0e483c2a70439e506b4e1c49cf4b04bb56693b6
   languageName: node
   linkType: hard
 
